@@ -1,1 +1,2 @@
-# master
+#input(transpose of nxm matrix)
+
